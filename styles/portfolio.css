@@ -2,6 +2,13 @@ body {
   background: pink;
 }
 h1 {
+  font-family: "Playfair Display SC", serif;
+  font-family: bold;
   color: white;
+  text-align: center;
+}
+p {
+  font-family: "Playfair Display SC", serif;
+  font-weight: normal;
   text-align: center;
 }

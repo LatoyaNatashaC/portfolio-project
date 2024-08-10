@@ -27,6 +27,7 @@ p {
   background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
+  max-width: 100%;
 }
 .hero p {
   font-size: 36px;

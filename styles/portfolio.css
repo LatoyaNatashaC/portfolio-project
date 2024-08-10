@@ -31,3 +31,11 @@ p {
   font-size: 24px;
   line-height: 2;
 }
+.btn-branding {
+  background: #6c63ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
+}

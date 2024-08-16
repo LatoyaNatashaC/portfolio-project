@@ -87,6 +87,9 @@ p {
 .project-description {
   padding: 0 30px;
 }
+.logo {
+  max-width: 150px;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
